@@ -1,0 +1,25 @@
+######################################################################
+#                                                                    #
+#      VREWCRAFT HELP COMMANDS CONFIG BY: BLAZING_LIGHTS             #
+#                                                                    #
+######################################################################
+# Use "&" for colour codes. Visit this website to know the colour codes for the help messages:
+Rows:
+- '&8-=[ &a&l+ &8]=- &8[ &dServer Name &8] -= [ &a&l+ &8]=-'
+- ' '
+- '  &e/spawn &f- &7Teleport to spawn.'
+- '  &e/pvp &f- &7Fight to the death! Don''t die!'
+- '  &e/pay &f- &7Pay people some cash.'
+- '  &e/rules &f- &7Read our rules, so you don''t break them.'
+- '  &e/kit &f- &7Grab a kit'
+- '  &e/p auto &f- &7Grab a plot!'
+- ' '
+- '&8-=[ &a&l+ &8]=- &8[ &dServer Name &8] -= [ &a&l+ &8]=-'
+
+#May not work, still in Beta :P
+#
+#
+#
+#
+#
+#

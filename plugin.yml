@@ -1,0 +1,24 @@
+ name: VrewCraftBasics
+ main: me.AaronPLights.VrewCraftBasics.VrewCraftHelp
+ version: 1.6
+ description: A Simple Command Helper Plugin
+
+ commands:
+   help:
+     description: Have a Custom Message as your /help
+   ?:
+     description: Have a Custom Message as your /help
+   forums:
+     description: Gives you the link to our forums!
+   forum:
+     description: Gives you the link to our forums!
+   donate:
+     description: Gives you the link to our Store!
+   store:
+     description: Gives you the link to our Store!!
+   vote:
+     description: Gives you the link to our Voting Site!
+   voting:
+     description: Gives you the link to our Voting Site!
+   vcbasics:
+     description: Shows the plugin info.
