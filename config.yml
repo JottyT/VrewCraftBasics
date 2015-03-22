@@ -1,9 +1,9 @@
-######################################################################
-#                                                                    #
-#      VREWCRAFT HELP COMMANDS CONFIG BY: BLAZING_LIGHTS             #
-#                                                                    #
-######################################################################
+#
+#      VREWCRAFT HELP COMMANDS CONFIG BY: BLAZING_LIGHTS
+#                 VERSION: 1.6.3
+#
 # Use "&" for colour codes. Visit this website to know the colour codes for the help messages:
+# http://ess.khhq.net/mc/
 Rows:
 - '&8-=[ &a&l+ &8]=- &8[ &dServer Name &8] -= [ &a&l+ &8]=-'
 - ' '
@@ -17,9 +17,3 @@ Rows:
 - '&8-=[ &a&l+ &8]=- &8[ &dServer Name &8] -= [ &a&l+ &8]=-'
 
 #May not work, still in Beta :P
-#
-#
-#
-#
-#
-#
